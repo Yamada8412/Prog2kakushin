@@ -4,7 +4,6 @@
 + [work2](https://github.com/Yamada8412/Prog2kakushin/blob/main/work2.ipynb)(楕円の中で球を打ち、楕円内を20回反射したときの軌跡を描くプログラムを作成する.)
   + [work2のコードの説明と改訂版を紹介をした記事をQiitaに投稿しました](https://qiita.com/eirian0958/items/ee58bf4c6870e2d0c366) (**work2に関しては、こっちを見てください**)
 + [work3](https://github.com/Yamada8412/Prog2kakushin/blob/main/work3.ipynb) (Opencvでテンプレートマッチングを実装して、Amazonの商品画面から、その商品が現在在庫切れかを判断するプログラムを作成する)
----
 
 ### プログラムの一部説明と注意事項
 + work1
@@ -19,6 +18,5 @@
   + 今回、Yamada8412が作成したこのテンプレートマッチングのプログラムは、テンプレート画像が探索対象画面内になかった場合は、ほぼ機能しません.
   + このプログラムだけでは、あまり実用性がないと思うので、目的に合わせて他のプログラムと組み合わせて使ってみて下さい.
 
----
 ### 参考文献
 + [テンプレートマッチングの紹介](https://pystyle.info/opencv-template-matching/)
