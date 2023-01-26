@@ -1,5 +1,3 @@
-# プログラミングⅡ課題プログラム
-
 ### プログラム一覧
 
 + [work1](https://github.com/Yamada8412/Prog2kakushin/blob/main/work1.ipynb) (辞書攻撃に用いられる辞書を用いて、パスワード強度判定プログラムを作る.)
